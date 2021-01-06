@@ -37,7 +37,4 @@ public class Questions {
     public static final String LEVEL_3_QUESTION_2_ANSWER_3 = "Venus";
     public static final String LEVEL_3_QUESTION_2_ANSWER_4 = "Uranus";
     public static final int LEVEL_3_QUESTION_1_SCORE = 100;
-
-
-
 }
